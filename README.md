@@ -9,11 +9,13 @@ OS ... Raspbian 10.1
   
   使用言語 ... C言語
   
-### 実行方法
+### ・実行方法
 ~~~~
-print
+$ cd Robosys_homework/device_driver
+$ make
+$ sudo insmod myled.ko
 ~~~~
-  
+
  
 ### ・実行動画
 　https://www.youtube.com/watch?v=m6WCQWNXWUs
