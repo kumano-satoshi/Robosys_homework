@@ -3,7 +3,7 @@
 　「3つのLEDを順番に点滅させるモード」と「3つのLEDを光らせ続けるモード」を作成
  
 ### ・実行環境
-　OS...Raspbian 10.1
+OS...Raspbian 10.1
  
   kernel...Linux version 4.19
   
