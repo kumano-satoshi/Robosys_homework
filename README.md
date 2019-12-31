@@ -10,6 +10,7 @@ OS ... Raspbian 10.1
   使用言語 ... C言語
   
 ## ・実行方法
+使用するGPIOは25番、23番、18番である
 ~~~~
 $ cd Robosys_homework/device_driver
 $ make
