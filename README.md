@@ -34,5 +34,6 @@ $ sudo rmmod myled
 ~~~~
  
 ## ・実行動画
+ [![](https://www.youtube.com/watch?v=m6WCQWNXWUs/0.jpg)](https://www.youtube.com/watch?v=m6WCQWNXWUs)
 　https://www.youtube.com/watch?v=m6WCQWNXWUs
 　
