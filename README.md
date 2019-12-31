@@ -28,7 +28,10 @@ $ echo 2 > /dev/myled0
 ~~~~
 $ echo 3 > /dev/myled0
 ~~~~
-
+##### カーネルモジュールをアンロードする
+~~~~
+$ sudo rmmod myled
+~~~~
  
 ### ・実行動画
 　https://www.youtube.com/watch?v=m6WCQWNXWUs
